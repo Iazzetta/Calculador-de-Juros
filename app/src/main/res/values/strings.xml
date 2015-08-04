@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Juros</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtValorFinanciamento">Valor do Financiamento</string>
+    <string name="txtNumeroMeses">Numero de Meses</string>
+    <string name="txtJuros">Taxa de juros mes (%)</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnExibirValor">Exibir Resultado</string>
+    <string name="txtTotalJuros">0</string>
+    <string name="txtFechar">Fechar</string>
+    <string name="txtLogo">Calculando Juros!</string>
+
+</resources>
